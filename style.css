@@ -1,0 +1,408 @@
+* {
+    border: 0px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: white;
+    border: 0px;
+}
+
+.main {
+    width: 1440px;
+    padding: 0;
+    margin: 0;
+    margin: 0 auto;
+}
+
+/* MENU */
+
+.menu {
+    background-color: black;
+    height: 56px;
+    padding: 0px;
+    position: relative;
+    vertical-align: middle;
+}
+
+.menu-inicio {
+    color: white;
+    position: absolute;
+    left: 28px;
+    top: 19px;
+    width: 38px;
+}
+
+.menu-servicios {
+    color: white;
+    position: absolute;
+    left: 104px;
+    top: 19px;
+    width: 66px;
+}
+
+.menu-nosotros {
+    color: white;
+    position: absolute;
+    left: 207px;
+    top: 19px;
+    width: 66px;
+}
+
+.menu-formacion {
+    position: absolute;
+    left: 300px;
+    top: 19px;
+    width: 77px;
+}
+
+#selectId {
+    width: 97px;
+}
+
+.menu-referencia {
+    color: white;
+    position: absolute;
+    left: 432px;
+    top: 19px;
+    width: 77px;
+}
+
+.menu-contacto {
+    color: white;
+    position: absolute;
+    left: 547px;
+    top: 19px;
+    width: 67px;
+
+}
+
+.menu-buscar {
+    color: white;
+    position: absolute;
+    left: 983px;
+    top: 19px;
+    width: 137px;
+}
+
+.menu-field-search {
+    position: absolute;
+    left: 1136px;
+    top: 9px;
+    width: 203px;
+    height: 37px;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.menu-btn-search {
+    background-color: #ffe55d;
+    position: absolute;
+    left: 1347px;
+    top: 9px;
+    width: 79px;
+    height: 37px;
+    border-radius: 4px;
+}
+
+
+/* HOLA CONTAINER */
+
+.hola-container {
+    background-color: #efefef;
+    height: 382px;
+    padding: 0px;
+    position: relative;
+}
+
+.hola-a-todos {
+  position: absolute;
+  left: 95px;
+  top: 61px;
+  width: 372px;
+  height: 73px;
+  background-color: #efefef;
+}
+
+.hola-a-todos {
+  position: absolute;
+  left: 95px;
+  top: 61px;
+  width: 372px;
+  height: 73px;
+  background-color: #efefef;
+}
+
+.Lorem-ipsum-dolor-si {
+    position: absolute;
+    left: 97px;
+    top: 153px;
+    width: 833px;
+    height: 95px;
+    line-height: 1.5;
+}
+
+.button-mas-info {
+    position: absolute;
+    left: 96px;
+    top: 260px;
+    width: 193px;
+    height: 57px;
+    border-radius: 8px;
+    background-color: #7ed321;
+    color: white;
+}
+
+
+/* CURSOS */
+
+.card-cursos-container {
+    height: 384px;
+    padding: 0px;
+    position: relative;
+}
+
+.title-a7a {
+    position: absolute;
+    left: 94px;
+    top: 64px;
+    width: 261px;
+    height: 31px;
+    color: #4a90e2;
+    line-height: 31px;
+}
+
+.curso-a7a-img{
+    position: absolute;
+    left: 97px;
+    top: 115px;
+    width: 394px;
+    height: 190px;
+    float: left;
+    line-height: 1.69;
+}
+
+.img-a7a {
+    float: left;
+    padding: 0 13px 7px 0;
+}
+
+.title-dockub {
+    position: absolute;
+    left: 520px;
+    top: 64px;
+    width: 240px;
+    height: 31px;
+    color: #4a90e2;
+    line-height: 31px;
+}
+
+.curso-dockub-img{
+    position: absolute;
+    left: 522px;
+    top: 115px;
+    width: 394px;
+    height: 190px;
+    float: left;
+    line-height: 1.69;
+}
+
+.img-dockub {
+    float: left;
+    padding: 0 13px 7px 0;
+}
+
+.title-nodejs {
+    position: absolute;
+    left: 947px;
+    top: 64px;
+    width: 91px;
+    height: 31px;
+    color: #4a90e2;
+    line-height: 31px;
+}
+
+.curso-nodejs-img{
+    position: absolute;
+    left: 948px;
+    top: 115px;
+    width: 394px;
+    height: 190px;
+    float: left;
+    line-height: 1.69;
+}
+
+.img-nodejs {
+    float: left;
+    padding: 0 13px 7px 0;
+}
+
+/* VIDEO */
+
+.video-container {
+    background-color: #e8f6fc;
+    height: 557px;
+    padding: 0px;
+    position: relative;
+}
+
+.video{
+    position: absolute;
+    left: 308px;
+    top: 101px;
+    width: 501px;
+    height: 358px;
+}
+
+.video-proximas-convocatorias {
+    position: absolute;
+    left: 841px;
+    top: 106px;
+    width: 268px;
+    height: 31px;
+}
+
+.video-proximas-texto {
+    position: absolute;
+    left: 846px;
+    top: 147px;
+    width: 303px;
+    height: 90px;
+}
+
+.video-label {
+    position: absolute;
+    left: 843px;
+    top: 274px;
+    width: 196px;
+    height: 27px;
+}
+
+.video-input {
+    position: absolute;
+    left: 841px;
+    top: 306px;
+    width: 288px;
+    height: 35px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.video-button {
+    position: absolute;
+    left: 843px;
+    top: 360px;
+    width: 115px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #4a90e2;
+}
+
+ /* FOOTER  */
+
+.sda-container {
+    height: 522px;
+    padding: 0px;
+    position: relative;
+}
+
+.sda-p {
+    position: absolute;
+    left: 495.5px;
+    top: 83px;
+    width: 447px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.sda-lorem {
+    position: absolute;
+    left: 199px;
+    top: 151px;
+    width: 1040px;
+    height: 95px;
+    text-align: center;
+}
+
+.sda-button {
+    position: absolute;
+    left: 631px;
+    top: 259px;
+    width: 177px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #4a90e2;
+    color: white;
+}
+
+.sda-hr {
+    position: absolute;
+    left: 97px;
+    top: 405px;
+    width: 1247px;
+    height: 1px;
+    background-color: #4a90e2;
+}
+
+.sda-inicio {
+    color: #4a90e2;
+    position: absolute;
+    left: 97px;
+    top: 420.5px;
+    width: 38px;
+}
+
+.sda-servicios {
+    color: #4a90e2;
+    position: absolute;
+    left: 173px;
+    top: 420.5px;
+    width: 66px;
+}
+
+.sda-nosotros {
+    color: #4a90e2;
+    position: absolute;
+    left: 276px;
+    top: 420.5px;
+    width: 66px;
+}
+
+.sda-formacion {
+    color: #4a90e2;
+    position: absolute;
+    left: 380px;
+    top: 420.5px;
+    width: 77px;
+}
+
+.sda-referencia {
+    color: #4a90e2;
+    position: absolute;
+    left: 494px;
+    top: 420.5px;
+    width: 77px;
+}
+
+.sda-contacto {
+    color: #4a90e2;
+    position: absolute;
+    left: 609px;
+    top: 420.5px;
+    width: 67px;
+}
+
+.sda-copy {
+    color: #4a90e2;
+    position: absolute;
+    left: 1233px;
+    top: 420.5px;
+    width: 111px;
+    text-align: right;
+}
+
+
+
+
+
